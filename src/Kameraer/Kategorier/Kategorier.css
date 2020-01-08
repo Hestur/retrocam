@@ -1,0 +1,12 @@
+.inline{
+    display: inline;
+}
+
+.content{
+    background-color: #fff;
+    padding: 20px;
+}
+
+.italic{
+    font-style: italic;
+}

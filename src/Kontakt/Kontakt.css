@@ -1,0 +1,34 @@
+.hero{
+    width: 100%;
+    height: 50vh;
+    
+}
+
+form{
+    width: 25.3vw;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: lightgrey;
+    border: lightgray 1px solid;
+    border-radius: 2%;
+    margin-left: 25%;
+}
+.inputform{
+    padding-top: 10px;
+    width: 23vw;
+    text-align: center;
+}
+
+label, input, textarea, button{
+    margin-left: 20px;
+}
+
+button{
+    text-align: center;
+    margin-top: 20px;
+    width: 23vw;
+    background-color: turquoise;
+    border: turquoise 1px solid;
+    border-radius: 5px;
+    height: 40px;
+}
