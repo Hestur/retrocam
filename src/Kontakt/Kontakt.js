@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import pic1 from '../assets/Slideshow billeder/camera-1.jpg';
+import pic1 from '../assets/Slideshow billeder/contact.jpg';
 import './Kontakt.css';
 
 

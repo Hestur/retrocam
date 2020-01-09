@@ -41,8 +41,8 @@ class Home extends Component {
             <p className="Title">Pentax LX</p>
             <p className="desc">Professionelt spejlrefleks med tidernes bedste lysmåler</p>
 
-            <p className="pris">Pris: DKK 2499.98</p>
-
+            <p className="pris" style={{display: 'inline', lineHeight: 5}}>Pris: DKK 2499.98</p>
+                <br/>
             <a className="link" href="Pentax-LX">Klik her for yderligere information...</a>
             </div>
         </div>
