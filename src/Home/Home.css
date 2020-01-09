@@ -89,6 +89,7 @@ vertical-align: top;
 .produkter img{
 width: 90%;
 padding: 10px;
+max-height: 175px;
 }
 
 .mid{
@@ -100,6 +101,6 @@ padding: 10px;
 .line{
     padding-top: 50px;
     width: 100%;
-    border-bottom: turquoise 2px dotted;
+    border-bottom: #0AB2AB 2px dotted;
     
 }

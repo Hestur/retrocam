@@ -7,7 +7,7 @@ margin: 10px;
     text-align: center;
 }
 .footer{
-    background-color: teal;
+    background-color: #0AB2AB;
     display: flex;
     justify-content: space-around;
     padding-top: 20px;

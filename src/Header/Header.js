@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../assets/Diverse/retrocam-logo.png';
-import søg from '../assets/Diverse/søg.png';
+import søg from '../assets/Diverse/søg.svg';
 import home from '../assets/Diverse/white-house.svg';
 import './Header.css';
 import { Link } from "react-router-dom";
@@ -12,7 +12,7 @@ class Header extends Component {
                 <div className="top">
             <img src={logo} alt=""/>
 <div className="søg"> 
-            <input type="text" defaultValue="Find kamera/film"/><Link to="Søg"><img src={søg} style={{background: 'teal'}} alt=""/></Link>
+            <input type="text" placeholder="Find kamera/film"/><Link to="Søg"><img src={søg} style={{background: 'teal'}} alt=""/></Link>
             </div>
             </div>
 
