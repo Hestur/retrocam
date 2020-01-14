@@ -7,7 +7,14 @@ body {
 
 
 .App{
-  background-image: url(./assets/Diverse/baggrundsbilledet.jpg)
+  background-image: url(./assets/Diverse/baggrundsbilledet.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  
 }
 
 .gridlayout {

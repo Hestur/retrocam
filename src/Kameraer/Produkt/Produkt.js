@@ -38,7 +38,7 @@ class Produkt extends Component {
 
 
 <div className="flex">
-            <p className="pris">Pris: DKK 650.00</p>
+            <p className="pris" style={{width: 200}}>Pris: DKK 650.00</p>
             <div className="køb">KØB</div>
             </div>
             <p>Pentax LX er en del af LX-serien (super LX, MXL, XXXL) og et et populært kamera på grund af alle de gode features.</p>
